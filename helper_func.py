@@ -9,7 +9,6 @@ from keras.utils import np_utils
 # To plot graphs and display images
 from matplotlib import pyplot as plt
 
-
 #constants
 
 path = "sample_data/"  # Path to data 
